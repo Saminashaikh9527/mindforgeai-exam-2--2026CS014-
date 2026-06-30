@@ -1,47 +1,92 @@
-# Student Readiness Analytics Project
+# MindForge AI Exam 2 – Student Readiness Analytics
 
-## Project Overview
-This project analyzes student performance using attendance, diary entries, task completion, assignment, and lab signals. The goal is to calculate a readiness score and classify students into performance bands.
+## Student Details
+- **Name:** Samina Shaikh
+- **Roll No.:** 2026CS014
+- **Course:** CO
 
+---
 
-## Folder Structure
-- data/ → Contains input dataset
-- notebooks/ → Jupyter notebook for analysis
-- outputs/ → Final processed CSV file
-- screenshots/ → Final output screenshot
+## Objective
 
+The objective of this project is to analyze student performance data using attendance, diary entries, task completion, assignments, and lab performance. The notebook calculates a readiness score, classifies students into performance bands, and generates useful insights.
 
-
-## Dataset
-File used:
-week_2_3_exam_student_signals.csv
-
-
-
-## Steps Performed
-1. Loaded the dataset using pandas
-2. Checked data types and missing values
-3. Cleaned and validated data
-4. Calculated readiness score using performance signals
-5. Classified students into:
-   - Support
-   - Developing
-   - Strong
-   - Excellent
-6. Generated final output file
-
-
-
-## Output
-Final file generated:
-outputs/readiness_summary.csv
-
+---
 
 ## Tools Used
+
+- Visual Studio Code (VS Code)
+- Jupyter Notebook / Google Colab
 - Python
-- Pandas
-- Jupyter Notebook
+- pandas
+- Git
+- GitHub
 
+---
 
-## Result
-Student performance analysis completed successfully with classification and insights generated.
+## How to Run the Notebook
+
+1. Clone or download this repository.
+2. Open the project in VS Code or Jupyter Notebook.
+3. Install the required library:
+
+   ```bash
+   pip install pandas
+   ```
+
+4. Open the notebook:
+   - `Section_C/notebooks/student_signals_analytics.ipynb`
+5. Run all cells from top to bottom.
+6. The notebook will:
+   - Load the dataset
+   - Check data quality
+   - Calculate readiness scores
+   - Classify students
+   - Generate the final summary
+
+---
+
+## Key Outputs and Insights
+
+- Dataset preview
+- Data type and missing value analysis
+- Readiness score calculation
+- Student classification:
+  - Support
+  - Developing
+  - Strong
+  - Excellent
+- Department-wise summary
+- Top-performing students
+- Final readiness summary
+
+---
+
+## Project Structure
+
+```
+mindforgeai-exam-2-2026CS014/
+│
+├── README.md
+├── Section_A/
+├── Section_B/
+├── Section_C/
+│   ├── data/
+│   └── notebooks/
+├── Section_D.ipynb
+└── .gitignore
+```
+
+---
+
+## GitHub Repository
+
+Repository Link:
+
+https://github.com/Saminashaikh9527/mindforgeai-exam-2--2026CS014-
+
+---
+
+## Submission
+
+This repository contains all files required for the MindForge AI Exam 2 submission.
