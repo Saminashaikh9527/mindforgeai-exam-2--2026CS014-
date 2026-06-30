@@ -1,4 +1,4 @@
-# MindForge AI Exam 2 – Student Readiness Analytics
+# MindForgeAI Exam 2 – Student Readiness Analytics
 
 ## Student Details
 - **Name:** Samina Shaikh
@@ -89,4 +89,4 @@ https://github.com/Saminashaikh9527/mindforgeai-exam-2--2026CS014-
 
 ## Submission
 
-This repository contains all files required for the MindForge AI Exam 2 submission.
+This repository contains all files required for the MindForgeAI Exam 2 submission.
