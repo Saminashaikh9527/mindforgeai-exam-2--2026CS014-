@@ -84,7 +84,6 @@ mindforgeai-exam-2-2026CS014/
 Repository Link:
 
 https://github.com/Saminashaikh9527/mindforgeai-exam-2--2026CS014-
-
 ---
 
 ## Submission
