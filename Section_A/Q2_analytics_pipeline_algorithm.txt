@@ -1,0 +1,35 @@
+
+
+Q.2) Section A
+
+Algorithm for Student Performance Analytics Pipeline
+
+Input: We have to read student data from CSV file.
+
+Process:
+
+1. Load dataset.
+2. If dataset is empty, display an error message.
+3. Check for missing values in all columns.
+4. For each student:
+
+   1. Calculate the attendance percentage.
+   2. Calculate task performance.
+   3. If score < 40 → **Support**
+   4. Else if score < 70 → **Developing**
+   5. Else if score < 90 → **Strong**
+   6. Else → **Excellent**
+
+### Output:
+
+1. Show attendance.
+2. Show performance band.
+3. Show top performer.
+4. Show students who need support.
+
+### Edge Case:
+
+1. Dataset is empty.
+2. Some values may be missing.
+3. Attendance values may be incorrect.
+

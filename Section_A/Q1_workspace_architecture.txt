@@ -1,0 +1,27 @@
+
+# Section A — Q1. Workspace Architecture Map
+         VS Code
+           │
+           ▼
+   Local Jupyter Notebook
+           │
+           ▼
+      Google Colab 
+           │
+           ▼
+    GitHub Repository
+           │
+           ▼
+ Google Drive Submission Folder
+           │
+           ▼
+   MindforgeAI Portal Submission
+
+Tools Explaintion:
+   
+VS Code :	Write Python code and manage project files
+Local Jupyter	: Use to execute notebook, analyze data, visualize outputs
+Google Colab	:Backup cloud notebook if required
+GitHub	:Store , version control, share repository
+Google Drive:	Store notebook, screenshots, PDF
+Portal	:Final submission of all links
